@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="13" viewBox="0 0 61 13">
+  <g id="Group_2708" data-name="Group 2708" transform="translate(-1047 -276)">
+    <g id="Group_2707" data-name="Group 2707">
+      <g id="Rectangle_483" data-name="Rectangle 483" transform="translate(1047 276)" fill="#fff" stroke="#000" stroke-width="1">
+        <rect width="61" height="13" stroke="none"/>
+        <rect x="0.5" y="0.5" width="60" height="12" fill="none"/>
+      </g>
+      <text id="Resource_file_" data-name="Resource file " transform="translate(1049 276)" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="9">Resource file </tspan></text>
+      <g id="Group_911" data-name="Group 911" transform="translate(5)">
+        <g id="Group_909" data-name="Group 909" transform="translate(1337.865 497.888)">
+          <g id="Group_910" data-name="Group 910">
+            <path id="Path_212" data-name="Path 212" d="M7.5,309.333c-.276,0-.5.566-.5,1.263v3.866c0,.19-.061.344-.136.344H1.136c-.075,0-.136-.154-.136-.344V310.6c0-.7-.224-1.263-.5-1.263S0,309.9,0,310.6v3.866c0,1.585.509,2.869,1.136,2.871H6.864c.627,0,1.136-1.286,1.136-2.871V310.6C8,309.9,7.776,309.333,7.5,309.333Z" transform="translate(-246.982 -528.221)"/>
+            <path id="Path_213" data-name="Path 213" d="M112.645,4.653a2.129,2.129,0,0,0,2.328,0h0l1.175-.844a.322.322,0,0,0,.013-.558.709.709,0,0,0-.776-.01l-.013.01-1.018.731L114.346.394c0-.218-.246-.394-.549-.394h0c-.3,0-.549.177-.549.394l.008,3.583-1.01-.726a.709.709,0,0,0-.776.01.321.321,0,0,0,0,.548Z" transform="translate(-356.729 -219.455)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
